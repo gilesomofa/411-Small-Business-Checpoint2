@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvitica, Futura;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+.Navigation {
+  width: 100%;
+  padding-left: 20px;
+  margin: 0;
+}
+.Navigation h1 {
+  color: ivory;
+  line-height: 5rem;
+}
+.Navigation p {
+  color: ivory;
+  text-decoration-line: underline;
+}
+.Dashboard {
+  height: 100%;
+  display: flex;
+  padding: 20px 20px;
+  border: cyan 2px solid;
+}
+#root {
+  height: 100vh;
+}
+.Gallery {
+  /* display: flex; */
+  /* flex-wrap: wrap;
+  flex-flow: row; */
+  float: right;
+  /* justify-content: space-evenly; */
+  justify-content: center;
+  padding: 15px 20px;
+  border: lawngreen 1px solid;
+  height: 100vh;
+  width: 65%;
+}
+.studentCard {
+  border: 1px blue solid;
+  width: 110px;
+  height: 110px;
+  margin: 15px 15px;
+}
