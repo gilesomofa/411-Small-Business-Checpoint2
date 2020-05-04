@@ -1,0 +1,74 @@
+ls
+cd WesBos/
+ls
+cd beginner-javascript/
+ls
+cd playground/
+ls
+cd custom-functions/
+ls
+code .
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+rm beginner-javascript/
+del beginner-javascript/
+git help
+git init
+l
+ls
+cd beginner-javascript/
+ls
+cd ..
+ls
+cd ..
+ls
+cd WesBos/
+mkdir myPracticeFiles
+cd myPracticeFiles/
+ls
+touch index.html styles.css script.js
+ls
+code .
+cd ..
+ls
+cd ..
+ls
+cd capstone-app/
+cd ..
+ls
+cd WesBos/
+ls
+git add .
+git rm --cached beginner-javascrip
+ls
+rm myPracticeFiles 
+git help
+ls
+sudo mv WesBos myPracticeFiles beginner-javascript/
+ls
+ls
+cd beginner-javascript/
+ls
+git add .
+git commit-m"establishing work platform"
+git commit -m"establishing workflow"
+git push
+git status
+cd ..
+ls
+cd ..
+ls
+cd capstone-app/
+code .
+git branch
+git status
+git checkout -f
+git fsck --lost-found
+git status
+git add .
+git commit -m"averting disasters"
+git push

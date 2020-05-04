@@ -1,0 +1,90 @@
+node -v
+git remove 
+git rm practiceForCapstone/
+git rm -r practiceForCapstone/
+ls
+cd practiceForCapstone/
+git rm -r practicecapstone-app/
+git remove -r practicecapstone-app/
+git --help del
+git --help
+git help -g
+cd ..
+ls
+cd practiceForCapstone/
+git --version
+$ git config --global user.name "Giles Smith"
+cd ..
+ls
+cd ..
+ls
+cd gilessmith/
+$ git config --global user.name "Giles Smith"
+git config --global user.name "Giles Smith"
+git config --global user.email "gilesomofa@yahoo.com
+git config --list
+$ git config --global user.name "Giles Smith"
+git config --global user.email "gilesomofa@yahoo.com
+git config --list
+$ git config --global user.email "gilesomofa@yahoo.com"
+$ git config --list
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+git status
+git commit -"deleted"
+git status
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+$ git config --global user.name "Giles Smith"
+echo $ PATH
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+git config --global user.name "Giles Smith"
+$ git config --global user.name "Giles Smith"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+$ [sudo] npm explore npm -g -- npm install node-gyp@latest
+$ [sudo] npm explore npm -g -- npm install node-gyp@latest
+git add .
+git status
+git add .
+git add .
+git commit -m"cleaning"
+git push
+git status
+gti add capstone-app/
+git add capstone-app/.gitignore
+git add capstone-app/README.md 
+git add capstone-app/package-lock.json 
+git add capstone-app/package.json 
+git add capstone-app/public/
+git add capstone-app/src/
+git add capstone-app/public/
+git status
+ls
+cd capstone-app/
+git commit -m"pushing"
+git status
+cd ..
+ls
+cd WesBos/
+git addn
+git add WesBos/
+cd ..
+ls
+cd Codealongs/
+ls
+cd Traversy/
+git add index.html javaScriptCrash/ script.js styles
+git add styles.css 
+git commit -m"practicing"
+git push
+git status
+git clean
+git clean -f
+git checkout master
+git clean -f
+ls
+cd ..
+ls
+cd ..
+ls
+git status

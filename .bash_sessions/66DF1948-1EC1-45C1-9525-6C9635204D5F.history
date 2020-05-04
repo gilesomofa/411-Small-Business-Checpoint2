@@ -1,0 +1,24 @@
+git status
+`chsh -s /bin/zsh`
+ls
+git status
+git clean -f
+git status
+git add Codealongs/Traversy/javaScriptCrash/
+git add Documents/ Downloads/ Library/ Splice/ WesBos/ practiceForCapstone/ 
+git status
+git clean -f smallbusiness-411checkpoint2/README.md
+git clean -f smallbusiness-411checkpoint2/package-lock.json smallbusiness-411checkpoint2/package.json  smallbusiness-411checkpoint2/public/favicon.ico smallbusiness-411checkpoint2/public/index.html smallbusiness-411checkpoint2/public/index.html
+git status
+git checkout smallbusiness-411checkpoint2/
+git add .
+git commit -m"cleaning"
+git push
+ git commit --amend --reset-author
+git status
+cd Codealongs/
+git push
+git add .
+git commit -m"cleaning"
+git push
+git commit --amend --reset-author

@@ -1,0 +1,23 @@
+ls 
+cd .
+cd ..
+ls
+cd capstone-app/
+ls
+git status
+git branch
+git checkout sm
+ls
+cd .
+cd ..
+ls
+cd practiceForCapstone/
+code .
+cd practicecapstone-app/
+ls
+ls
+npm init
+npm install
+npm start
+install -g create-react-app
+v- create-react-app

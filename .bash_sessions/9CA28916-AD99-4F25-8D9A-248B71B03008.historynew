@@ -1,0 +1,11 @@
+ls
+npm start
+npm init
+npm start
+npm i
+npm start
+code .
+git checkout master
+git rm -r practicecapstone-app/
+git status
+git rm -r practicecapstone-app/-practicecapstone

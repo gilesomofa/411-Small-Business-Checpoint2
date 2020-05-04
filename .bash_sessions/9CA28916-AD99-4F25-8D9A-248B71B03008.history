@@ -1,0 +1,65 @@
+npm start
+npm start
+npm start
+npm start
+npm start
+npm i
+npm start
+ls
+touch Giles-Smith.md
+code .
+ls
+cd Giles-Smith.md 
+code .
+cd ..
+ls
+cd ..
+ls
+cd Users/
+ls
+cd gilessmith/
+ls
+cd Documents
+ls
+cd Library
+cd Library
+cd Music
+cd Desktop
+cd ..
+ls
+cd Library/
+ls
+cd ..
+ls
+cd Music/
+ls
+cd Ableton/
+ls
+cd Factory\ Packs/
+ls
+ls
+mkdir Splice
+cd Splice/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd capstone-app/
+ls
+code .
+ls
+code .
+ls
+cd ..
+ls
+cd practiceForCapstone/
+npx create-react-app practiceCapstone-app
+npx create-react-app practicecapstone-app
+npm start
+npm init
+code 
